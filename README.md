@@ -1,5 +1,5 @@
 # repo-backend
 
-## How to usa
+## How to use
 
-### `python manage.py runserver`
+`python manage.py runserver`
